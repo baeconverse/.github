@@ -4,6 +4,7 @@
 <!-- badges: end -->
 
 - [bvhar](https://github.com/ygeunkim/bvhar): Multivariate time series
+- [baymar](https://github.com/ygeunkim/baymar): Matrix-valued time series
 - and other ongoing private repos...
 
 <!--

@@ -17,3 +17,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ygeunkim&repo=ygeunkim%2Fbvhar&show_owner=true&theme=transparent)](https://github.com/ygeunkim/bvhar)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=ygeunkim&repo=ygeunkim%2Fbaymar&show_owner=true&theme=transparent)](https://github.com/ygeunkim/baymar)
